@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+:root {
+  --color-one: #1F4690;
+  --color-two: #3A5BA0;
+  --color-two-lighter: #7cc2d4;
+  --color-alt: #7cc2d4;
+  --color-three: #FFA500;
+  --color-four: #FFE5B4;
+}
+
+body {
+  font-family: 'Coming Soon', cursive;
+}
